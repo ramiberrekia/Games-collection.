@@ -1,7 +1,7 @@
 class Game:
     
     ##########################################################################"
-    # The game contructer
+    # The game contructor
     def __init__(self):
         print('Welcome To Ra-Games.')
         print('Type \'EO\' to play the Even-Odd number game.\nType \'SA\' to play the Sum-Average game.\nType \'MT\' to play the Multiplication Table Game.')
